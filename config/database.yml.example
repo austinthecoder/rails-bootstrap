@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: rails-bootstrap_development
+  username: user
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: rails-bootstrap_test
+  username: user
+  password:
