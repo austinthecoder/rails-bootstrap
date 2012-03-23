@@ -10,3 +10,9 @@ A template Rails application
 * Update the bundled gems: `bundle update`
 * Setup the database config: `cp config/database.yml.example config/database.yml`
 * Add `.rspec` and `.rvmrc` as needed
+* Ensure tests run: `rake test`
+
+## Notes
+
+* Runs on ruby 1.9.3
+* Uncomment gems as needed
